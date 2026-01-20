@@ -1,7 +1,7 @@
-
+wuxudong
 # ADB⚡OTG
 
-This project is a fork of the [flashbot](https://github.com/wuxudong/flashbot) developed by [wuxudong](https://github.com/wuxudong).
+This project is a fork of the [flashbot](https://github.com/zjhheueh/flashbot) developed by [wuxudong](https://github.com/wuxudong).
 
 ***⚡ Run ADB commands without a computer [No Need ROOT] ⚡***
 
